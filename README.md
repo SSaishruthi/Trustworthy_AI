@@ -5,4 +5,4 @@
 
 # Trustworthy AI Open Source Toolkits 
 
-![Tools](images/Toolkits.png)
+![Tools](Images/Toolkits.png)
